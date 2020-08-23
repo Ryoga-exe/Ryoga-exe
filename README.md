@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ryoga.exe 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryoga_exe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Ryoga_exe)
 
