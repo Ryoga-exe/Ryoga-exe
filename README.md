@@ -9,7 +9,7 @@
 I am not a native speaker, so please forgive my poor English.
 -->
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=Ryoga-exe&show_icons=true)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=Ryoga-exe&show_icons=true&include_all_commits=true&count_private=true)
 
 KSS PC Club 5th
 
