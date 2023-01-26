@@ -2,8 +2,9 @@
 
 
 [![Website](https://img.shields.io/website?label=ryoga.dev&style=for-the-badge&url=https%3A%2F%2Fryoga.dev)](https://ryoga.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ryoga_exe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Ryoga_exe)
-[![Ryoga_exe](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRyoga_exe&style=for-the-badge)](https://atcoder.jp/users/Ryoga_exe)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40Ryoga_exe-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Ryoga_exe)
+
+[![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRyoga_exe&style=for-the-badge)](https://atcoder.jp/users/Ryoga_exe)
 
 <!--
 I am not a native speaker, so please forgive my poor English.
