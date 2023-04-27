@@ -13,6 +13,8 @@ I am not a native speaker, so please forgive my poor English.
 
 KSS PC Club 5th
 
+University of Tsukuba (coins23)
+
 <!--
 **Ryoga-exe/Ryoga-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
