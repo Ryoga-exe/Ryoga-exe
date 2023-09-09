@@ -14,7 +14,6 @@
   - Game dev
   - Web technologies
   - HCI
-
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
 <small>Last Update: 2023-09-10</small>
