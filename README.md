@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/follow-%40Ryoga__exe-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Ryoga_exe)
 [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRyoga_exe&style=for-the-badge)](https://atcoder.jp/users/Ryoga_exe)
 
-- I'm a student at University of Tsukuba (coins23)
+- I'm a student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) ([coins23](https://www.coins.tsukuba.ac.jp/en/))
   - Studying computer sciense
   - [Sohosai](https://github.com/sohosai) jsys23
 - Interests/Loves
