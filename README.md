@@ -14,6 +14,12 @@
   - Game dev
   - Web technologies
   - HCI
+- Achievements/Qualification
+  - [Applied Information Technology Engineer](https://www.ipa.go.jp/shiken/kubun/list.html)
+  - [JOI ho'22](https://www.ioi-jp.org/joi-2022)
+  - [PCK 2022 Finals](https://pckoshien.u-aizu.ac.jp/final/2022final.html) team: `sigman`
+  - [ISUCON13](https://isucon.net/archives/57993937.html) team: `Maxif.` 25th (5th place in student team)
+  - [SECCON CTF 2023 Finals](https://ctf.seccon.jp/) team: `TPC` Domestic 5th 
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
-<small>Last Update: 2023-09-10</small>
+<small>Last Update: 2023-01-12</small>
