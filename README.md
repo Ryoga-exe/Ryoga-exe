@@ -22,4 +22,4 @@
   - [SECCON CTF 2023 Finals](https://ctf.seccon.jp/) team: `TPC` Domestic 5th 
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
-<small>Last Update: 2023-01-12</small>
+<small>Last Update: 2024-01-12</small>
