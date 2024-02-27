@@ -1,4 +1,4 @@
-# Ryoga.exe
+# Ryoga-exe
 
 
 [![Website](https://img.shields.io/website?label=ryoga.dev&style=for-the-badge&url=https%3A%2F%2Fryoga.dev)](https://ryoga.dev)
