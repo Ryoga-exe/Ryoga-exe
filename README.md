@@ -3,7 +3,8 @@
 
 [![Website](https://img.shields.io/website?label=ryoga.dev&style=for-the-badge&url=https%3A%2F%2Fryoga.dev)](https://ryoga.dev)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40Ryoga__exe-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Ryoga_exe)
-[![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRyoga_exe&style=for-the-badge)](https://atcoder.jp/users/Ryoga_exe)
+[![AtCoder Rating (Algorithm)](https://badgen.org/img/atcoder/Ryoga_exe/rating/algorithm?style=for-the-badge&label=Rating+%28algo%29)](https://atcoder.jp/users/Ryoga_exe?contestType=algo)
+[![AtCoder Rating (Heuristic)](https://badgen.org/img/atcoder/Ryoga_exe/rating/heuristic?style=for-the-badge&label=Rating+%28heuristic%29)](https://atcoder.jp/users/Ryoga_exe?contestType=heuristic)
 
 - I'm a student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) ([coins23](https://www.coins.tsukuba.ac.jp/en/))
   - Studying computer sciense
