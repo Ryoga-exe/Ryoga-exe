@@ -22,6 +22,7 @@
   - [PCK 2022 Finals](https://pckoshien.u-aizu.ac.jp/final/2022final.html) team: `sigman`
   - [ISUCON13](https://isucon.net/archives/57993937.html) team: `Maxif.` 25th (5th place in student team)
   - [SECCON CTF 2023 Finals](https://ctf.seccon.jp/) team: `TPC` Domestic 5th
+  - [ISUCON14](https://isucon.net/archives/58837992.html) team: `Maxif.` 29th (4th place in student team)
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
-<sup>Last Update: 2024-05-28</sup>
+<sup>Last Update: 2024-12-30</sup>
