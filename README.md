@@ -10,6 +10,7 @@
   - [Sohosai](https://github.com/sohosai) jsys23, jsys24
   - [WORD](https://www.word-ac.net/)
   - [Academic Collaboration Promotional Laboratory](http://www.ac-room.org/index.html)
+  - [Interactive Programming Laboratory (IPLAB)](https://www.iplab.cs.tsukuba.ac.jp/)
 - Interests/Loves
   - Hardware
   - Competitive Programming, CTF
@@ -25,4 +26,4 @@
   - [ISUCON14](https://isucon.net/archives/58837992.html) team: `Maxif.` 29th (4th place in student team)
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
-<sup>Last Update: 2024-12-30</sup>
+<sup>Last Update: 2026-02-20</sup>
