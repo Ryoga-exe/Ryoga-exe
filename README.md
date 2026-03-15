@@ -13,17 +13,11 @@
   - [Interactive Programming Laboratory (IPLAB)](https://www.iplab.cs.tsukuba.ac.jp/)
 - Interests/Loves
   - Hardware
+  - FPGA
   - Competitive Programming, CTF
   - Game dev
   - Web technologies
   - HCI
-- Achievements/Qualification
-  - [Applied Information Technology Engineer](https://www.ipa.go.jp/shiken/kubun/list.html)
-  - [JOI ho'22](https://www.ioi-jp.org/joi-2022)
-  - [PCK 2022 Finals](https://pckoshien.u-aizu.ac.jp/final/2022final.html) team: `sigman`
-  - [ISUCON13](https://isucon.net/archives/57993937.html) team: `Maxif.` 25th (5th place in student team)
-  - [SECCON CTF 2023 Finals](https://ctf.seccon.jp/) team: `TPC` Domestic 5th
-  - [ISUCON14](https://isucon.net/archives/58837992.html) team: `Maxif.` 29th (4th place in student team)
 - [Contact](https://github.com/Ryoga-exe/Life-public/issues)
 
-<sup>Last Update: 2026-02-20</sup>
+<sup>Last Update: 2026-03-15</sup>
